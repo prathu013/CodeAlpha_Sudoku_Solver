@@ -1,4 +1,4 @@
-# CodeAlpha_Sudoku_Solver
+# CodeAlpha_Sudoku_Solver in C++
 
 This repository contains a Sudoku solver implemented in C++. The solver uses a backtracking algorithm to find a solution to a given Sudoku puzzle. It is capable of solving puzzles of varying difficulty levels.
 
