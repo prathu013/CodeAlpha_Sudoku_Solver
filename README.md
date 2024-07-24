@@ -21,19 +21,19 @@ To use the Sudoku solver:
    git clone https://github.com/yourusername/sudoku-solver.git
 
 2. Navigate to the project directory:
-"""bash
-cd sudoku-solver
-"""
+   """bash
+   cd sudoku-solver
+   """
 
 2. Compile the code:
-"""bash
-g++ -o sudoku_solver sudoku_solver.cpp
-"""
+   """bash
+   g++ -o sudoku_solver sudoku_solver.cpp
+   """
 
 3. Run the executable:
-"""bash
-./sudoku_solver
-"""
+   """bash
+   ./sudoku_solver
+   """
 
 ## Example
 The provided code includes a sample Sudoku puzzle. When you run the program, it will output the solved Sudoku board.
